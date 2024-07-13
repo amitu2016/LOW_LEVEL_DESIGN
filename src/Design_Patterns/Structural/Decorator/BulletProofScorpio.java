@@ -1,4 +1,4 @@
-package Design_Patterns.Structutal.Decorator;
+package Design_Patterns.Structural.Decorator;
 
 public class BulletProofScorpio extends ScorpioDecorator{
 
